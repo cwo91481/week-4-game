@@ -66,9 +66,9 @@ div.header{
 
 .winsAndLosses{
 float: left;
-position: absolute;
-right: 300px;
-bottom: 260px;
+position: relative;
+left: 470px;
+bottom: 105px;
 
 }
 .userTotal{
